@@ -14,3 +14,8 @@ https://stackoverflow.com/questions/42710604/python-select-unique-key-values-fro
 https://realpython.com/python-json/
 
 As I just wanted to show the titles I manage to use the code as in the third link example to finally just have one time titles.
+
+# Task 3
+
+With information provided by the professor and doing a little research on matplotlib official website, I manage to complete the task 3 with no further complications.
+https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html
