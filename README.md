@@ -33,3 +33,7 @@ Append with concat:
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.concat.html
 https://stackoverflow.com/questions/71132469/appending-row-to-dataframe-with-concat
 https://saturncloud.io/blog/how-to-append-a-row-to-pandas-dataframe-using-pandasconcat/
+IDMAX:
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.idxmax.html
+Extra help:
+https://chatgpt.com/
