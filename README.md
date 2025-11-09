@@ -56,3 +56,9 @@ https://www.w3schools.com/python/matplotlib_line.asp
 
 Labels
 https://www.w3schools.com/python/matplotlib_labels.asp
+
+Subplot
+https://www.w3schools.com/python/matplotlib_subplot.asp
+
+dropna
+https://realpython.com/how-to-drop-null-values-in-pandas/#:~:text=You%20can%20use%20.,null%20values%20within%20your%20DataFrame to remove NA rows in this case, but could also be used for columns
