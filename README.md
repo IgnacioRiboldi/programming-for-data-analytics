@@ -62,3 +62,8 @@ https://www.w3schools.com/python/matplotlib_subplot.asp
 
 dropna
 https://realpython.com/how-to-drop-null-values-in-pandas/#:~:text=You%20can%20use%20.,null%20values%20within%20your%20DataFrame to remove NA rows in this case, but could also be used for columns
+
+Daily max
+
+https://climate.usu.edu/uccda/analysis_max.html#:~:text=The%20daily%20maximum%20can%20be,max()%20function.&text=Here%2C%20tlabel%20is%20'TIMESTAMP',%2Dday%20time%2Dseries%20data.
+
